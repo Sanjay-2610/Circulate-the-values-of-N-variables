@@ -17,11 +17,10 @@ Using the slicing concept rotate the list
 Printing the circulated value 
 ## Program:
 ```py
-/*
-Program to circulate the values of n variables in a list
-Developed by: Sanjay Ragavendar
-RegisterNumber:  22009286
-*/
+#Program to circulate the values of n variables in a list
+#Developed by: Sanjay Ragavendar
+#RegisterNumber:  22009286
+
 def circulate():
     a=eval(input())
     n=int(input())
